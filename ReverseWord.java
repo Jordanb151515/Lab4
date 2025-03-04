@@ -1,10 +1,11 @@
 import java.util.Scanner;
 
 /**
- * Write a description of class ReverseWord here.
+ * This program takes input in the form of a series of words and tests them for palindromes. Part of Lab 4.
  *
  * @author Jordan Byrne
- * @version 1.0
+ * @version v1.0
+ * @since 2/27/25
  */
 
 public class ReverseWord{
