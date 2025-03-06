@@ -1,0 +1,7 @@
+Enter a series of multiple words ending with the word quit to test for palindromes: smooth jazz java potato chips quit
+smooth is not a palindrome.
+jazz is not a palindrome.
+java is a palindrome.
+potato is a palindrome.
+chips is not a palindrome.
+Type yes if you would like to enter another line? no

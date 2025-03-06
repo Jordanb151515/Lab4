@@ -1,0 +1,10 @@
+Enter a whole number, followed by a space, and then a C or F: 100 V
+Please enter a C or F: F
+The temperature converted to Celsius is 37.8C
+Enter yes if you would like to convert another temperature: yes
+Enter a whole number, followed by a space, and then a C or F: 212 F
+The temperature converted to Celsius is 100.0C
+Enter yes if you would like to convert another temperature: yes
+Enter a whole number, followed by a space, and then a C or F: 0 C
+The temperature converted to Fahrenheit is 32.0F
+Enter yes if you would like to convert another temperature: no

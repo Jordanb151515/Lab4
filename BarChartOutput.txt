@@ -1,0 +1,8 @@
+Number 1 is 499
+Number 2 is 965
+Number 3 is 848
+
+NUMBER BAR CHART
+Number 1: ****
+Number 2: *********
+Number 3: ********
